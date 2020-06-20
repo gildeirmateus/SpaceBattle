@@ -1,0 +1,25 @@
+@font-face{
+    font-family: emulogic;
+    src: url("../fonts/emulogic.ttf");
+}
+
+body{
+    background-color: black;
+}
+p{
+    color: red;
+    float: right;
+    position: bottom;
+    padding-top: 595px;
+    padding-right: 20px;
+}
+
+canvas{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    border: 1px solid black;
+}
